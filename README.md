@@ -12,6 +12,11 @@
 
 A simple and clean **User Management System** built with **React.js** that supports authentication, role-based access, and full CRUD operations using a fake REST API (**DummyJSON**).
 
+
+<p align="center">
+  🔗 <a href="https://ums-task-app.netlify.app/" target="_blank"><b>Live Demo</b></a>
+</p>
+
 ---
 
 ## 🚀 Features
