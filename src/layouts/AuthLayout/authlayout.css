@@ -1,0 +1,19 @@
+.auth-container {
+    background: linear-gradient(71.17deg, #FEAF00 19.35%, #F8D442 90.12%);
+}
+
+.app-title {
+    position: relative;
+    padding-left: 20px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.app-title::before {
+    position: absolute;
+    content: "";
+    left: 10px;
+    width: 4px;
+    height: 100%;
+    background-color: #F8D442;
+}

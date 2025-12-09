@@ -1,0 +1,10 @@
+.header-nav {
+    padding: 20px;
+    background-color: #fff;
+    border-bottom: solid 1px #E5E5E5;
+}
+
+.notification-icon i {
+    color: #CDCDCD;
+    font-size: 20px;
+}

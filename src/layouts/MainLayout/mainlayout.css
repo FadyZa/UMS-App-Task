@@ -1,0 +1,48 @@
+.page-content {
+    flex: 1;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0px 15px;
+}
+
+
+table th {
+    background-color: transparent !important;
+    color: #ACACAC !important;
+    text-align: center;
+}
+
+
+table td {
+    padding: 24px !important;
+    text-align: center;
+    vertical-align: middle;
+}
+
+table tr td:first-child {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+table tr td:last-child {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.edit-user,
+.delete-user {
+    display: flex;
+    align-items: center;
+    color: #FEAF00;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.form-wrapper {
+    padding: 30px;
+    border-radius: 20px;
+    background-color: #fff;
+    box-shadow: 2px 5px 10px 0px #0000001A;
+}
