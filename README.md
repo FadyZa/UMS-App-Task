@@ -43,16 +43,6 @@ A simple and clean **User Management System** built with **React.js** that suppo
 | **User**    | View users list & own profile only        |
 
 ---
-
-## 🌐 API Endpoints
-
-```bash
-GET    https://dummyjson.com/users
-POST   https://dummyjson.com/users/add
-PUT    https://dummyjson.com/users/:id
-PATCH  https://dummyjson.com/users/:id
-DELETE https://dummyjson.com/users/:id
-
 🛠️ Tech Stack
 
 ⚛️ React.js
@@ -74,6 +64,19 @@ DELETE https://dummyjson.com/users/:id
 🔔 React Toastify
 
 ✅ SweetAlert2
+
+---
+
+## 🌐 API Endpoints
+
+```bash
+GET    https://dummyjson.com/users
+POST   https://dummyjson.com/users/add
+PUT    https://dummyjson.com/users/:id
+PATCH  https://dummyjson.com/users/:id
+DELETE https://dummyjson.com/users/:id
+```
+
 ________________________________________________________________________________________________________
 
 # React + Vite
